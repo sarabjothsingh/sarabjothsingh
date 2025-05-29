@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">I'm Sarab Bhatia</font></h1>
+<h1 align="center"><font face="Arial">Hey there! I'm Sarab Bhatia:)) </font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/sarabjothbhatia" target="_blank" rel="noreferrer">Sarab</a> is a passionate developer from India, currently studying in his 4th year at NIIT University. Feel free to reach out for any Freelance Projects.</font></h3>
 
 <!-- GIF -->
