@@ -56,6 +56,7 @@
 - 📫 Reach me at: **[sarabjothbhatia@gmail.com](mailto:sarabjothbhatia@gmail.com)**
 - 👨‍💻 GitHub Username: **sarabjothsingh**
 -  📞 Phone: ‪+91 9347676935‬
+-  🔗 Linkedin:  https://www.linkedin.com/in/sarabjothbhatia
 ---
 
 ### 📊 GitHub Stats:
