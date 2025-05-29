@@ -52,11 +52,10 @@
 ---
 
 ### 📬 Connect with me:
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about Web Development and ML
 - 📫 Reach me at: **[sarabjothbhatia@gmail.com](mailto:sarabjothbhatia@gmail.com)**
-- ⚡ Fun fact: **I create YouTube videos**
 - 👨‍💻 GitHub Username: **sarabjothsingh**
-
+-  📞 Phone: ‪+91 9347676935‬
 ---
 
 ### 📊 GitHub Stats:
