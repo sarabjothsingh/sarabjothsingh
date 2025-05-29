@@ -2,46 +2,91 @@
 <h1 align="center"><font face="Arial">Hey there! I'm Sarab Bhatia:)) </font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/sarabjothbhatia" target="_blank" rel="noreferrer">Sarab</a> is a passionate developer from India, currently studying in his 4th year at NIIT University. Feel free to reach out for any Freelance Projects.</font></h3>
 
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="500"/>
+</p>
 
-<!-- Skills Section -->
-<h3 align="left"><font size="+2" face="Verdana">Skills:</font></h3>
+---
+
+### 🛠️ Skills:
 
 #### Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" title="Python" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="SQL" title="SQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
 
 #### Libraries
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" title="OpenCV" width="60" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" alt="Matplotlib" title="Matplotlib" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png" alt="NumPy" title="NumPy" width="40" height="40"/>
-</p>
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
 
 #### Frameworks
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React.js" title="React.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" title="Node.js" width="40" height="40"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
 
 #### Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" title="MySQL" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" title="Canva" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" title="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" title="Jenkins" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" title="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" title="VS Code" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" title="Figma" width="40" height="40"/>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-<!-- Contact Section -->
-<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
+---
 
-- 💬 Ask me about Web Development, ML
-- 📧 Mail: sarabjothbhatia@gmail.com
-- 📞 Phone: +91 9347676935
+#### Platforms
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+### 📬 Connect with me:
+- 💬 Ask me about **DevOps**
+- 📫 Reach me at: **[sarabjothbhatia@gmail.com](mailto:sarabjothbhatia@gmail.com)**
+- ⚡ Fun fact: **I create YouTube videos**
+- 👨‍💻 GitHub Username: **sarabjothsingh**
+
+---
+
+### 📊 GitHub Stats:
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=sarabjothsingh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarabjothsingh&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarabjothsingh&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarabjothsingh&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarabjothsingh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
